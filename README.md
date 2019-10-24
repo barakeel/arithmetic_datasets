@@ -1,6 +1,5 @@
 This is the training data accompanying the paper 
-"Deep Reinforcement Learning for HOL4: 
- Solving Propositional and Arithmetical Tasks".
+"Deep Reinforcement Learning in HOL4".
 
 The sub-folder "datasets" contains three files:
 - train for the training set
