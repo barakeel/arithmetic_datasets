@@ -1,4 +1,4 @@
-This is the training data accompanying the paper 
+This is the data accompanying the paper 
 "Deep Reinforcement Learning in HOL4".
 
 The sub-folder "datasets" contains three files:
