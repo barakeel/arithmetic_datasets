@@ -11,6 +11,6 @@ in S-expression format, its evaluation and the length of its
 left-outermost derivation. 
 
 The sub-folder "datasets_hol4" contains the same sets of 
-arithemtical expressions in a format that can 
+expressions in a format that can 
 be easily imported into HOL4 using 
 the `mlTacticData.import_terml` function.
