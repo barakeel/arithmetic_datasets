@@ -14,5 +14,5 @@ by their value.
 ## Remark
 
 The directory `arith_data_lopl` contains additionnally in the 
-third field the derivation length of left-outermost startegy using Robinson 
+third field the derivation length of left-outermost strategy using Robinson 
 arithmetic rewrite rules.
