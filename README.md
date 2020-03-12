@@ -1,5 +1,5 @@
 These are the datasets accompanying the paper 
-"Tree Neural Network in HOL4".
+"Tree Neural Networks in HOL4".
 
 ## Datasets
 
@@ -11,7 +11,8 @@ The sub-folder `data_arith` contains three files:
 These files contain arithmetical expressions followed on the next line
 by their value.
 
-## Remark: 
+## Remark
+
 The directory `arith_data_lopl` contains additionnally in the 
 third field the derivation length of left-outermost startegy using robinson 
 arithmetic rewrite rules which was used in a previous unpublished experiement.
