@@ -8,11 +8,8 @@ The sub-folder `data_arith` contains three files:
 * valid for the validation set
 * test for the test set
 
-This files contain arithmetical expressions followed on the next line
+These files contain arithmetical expressions followed on the next line
 by their value.
-
-Copy the directory `data_arith` to `HOL/examples/AI_TNN/data_arith` to be
-able to replicate the arithmetical evaluation experiment.
 
 ## Remark: 
 The directory `arith_data_lopl` contains additionnally in the 
